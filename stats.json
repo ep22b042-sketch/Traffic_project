@@ -1,0 +1,70 @@
+{
+  "generated": 108,
+  "finished": 95,
+  "dropped": 0,
+  "avg_travel_time": 9.389473684210527,
+  "avg_waiting_time": 0.631578947368421,
+  "throughput": 1.1875,
+  "road_stats": {
+    "R1": {
+      "avg_occupancy": 1.7375,
+      "max_occupancy": 4,
+      "avg_waiting": 0.5,
+      "max_waiting": 2
+    },
+    "R2": {
+      "avg_occupancy": 0.8,
+      "max_occupancy": 3,
+      "avg_waiting": 0.225,
+      "max_waiting": 2
+    },
+    "R3": {
+      "avg_occupancy": 3.8875,
+      "max_occupancy": 7,
+      "avg_waiting": 1.025,
+      "max_waiting": 3
+    },
+    "R4": {
+      "avg_occupancy": 2.8125,
+      "max_occupancy": 5,
+      "avg_waiting": 0.6375,
+      "max_waiting": 2
+    },
+    "R5": {
+      "avg_occupancy": 1.6375,
+      "max_occupancy": 4,
+      "avg_waiting": 0.5125,
+      "max_waiting": 2
+    },
+    "R6": {
+      "avg_occupancy": 0.75,
+      "max_occupancy": 3,
+      "avg_waiting": 0.2,
+      "max_waiting": 1
+    },
+    "R7": {
+      "avg_occupancy": 0.8125,
+      "max_occupancy": 2,
+      "avg_waiting": 0.1875,
+      "max_waiting": 1
+    },
+    "R8": {
+      "avg_occupancy": 0.6875,
+      "max_occupancy": 2,
+      "avg_waiting": 0.1625,
+      "max_waiting": 1
+    },
+    "R9": {
+      "avg_occupancy": 0,
+      "max_occupancy": 0,
+      "avg_waiting": 0,
+      "max_waiting": 0
+    },
+    "R10": {
+      "avg_occupancy": 0,
+      "max_occupancy": 0,
+      "avg_waiting": 0,
+      "max_waiting": 0
+    }
+  }
+}
